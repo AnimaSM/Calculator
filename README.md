@@ -58,3 +58,6 @@ Input:
 
 Output:
 throws Exception //т.к. формат математической операции не удовлетворяет заданию - два операнда и один оператор (+, -, /, *)
+
+# Онлайн конвентер для проверки
+http://graecolatini.bsu.by/htm-different/num-converter-roman.htm
